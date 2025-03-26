@@ -1,0 +1,1 @@
+# Bu dosya core modülünü paket olarak tanımlar
